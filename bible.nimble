@@ -12,7 +12,7 @@ binDir        = "bin"
 
 # Dependencies
 
-requires "nim >= 0.13.0"
+requires "nim >= 1.0.0"
 
 # Tasks
 
